@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Other Stream",
+      "description": "This is a stream wihout userId",
+      "id": 7
+    },
+    {
+      "title": "Component Reuse",
+      "description": "I'm refactoring this!!",
+      "id": 10
+    },
+    {
+      "title": "Another streamm",
+      "description": "This so streamy",
+      "userId": "117844068253657075019",
+      "id": 11
+    },
+    {
+      "title": "Yet another stream",
+      "description": "Woah so cool",
+      "userId": "117844068253657075019",
+      "id": 12
+    }
+  ]
+}
